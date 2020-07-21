@@ -199,7 +199,8 @@ class DateUtil {
         TAG: "DateUtil",
         message: "getMonthViewLineCount:$year年$month月:有$lineCount行");
 
-    return lineCount;
+    return 5;
+    // return lineCount;
   }
 
   /**
